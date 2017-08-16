@@ -1,0 +1,12 @@
+node_modules
+bower_components
+.idea
+npm-debug.log
+
+src/images/.DS_Store
+
+src/.DS_Store
+
+.DS_Store
+
+up.sh
